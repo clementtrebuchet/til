@@ -11,9 +11,14 @@ Idea blatantly stolen from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Categories
 
 - [Devops](#devops)
+- [iOS](#ios)
 
 ---
 
 ## Devops
 
 * <a href="devops/Disable time sync between a VirtualBox host and its guest.md">Disable time sync between a VirtualBox host and its guest</a>
+
+## iOS
+
+* <a href="ios/Check the activation lock status of a used iPhone before buying.md">Check the activation lock status of a used iPhone before buying</a>
