@@ -12,6 +12,7 @@ Idea blatantly stolen from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [Devops](#devops)
 - [iOS](#ios)
+- [Python](#python)
 
 ---
 
@@ -22,3 +23,7 @@ Idea blatantly stolen from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## iOS
 
 * <a href="ios/Check the activation lock status of a used iPhone before buying.md">Check the activation lock status of a used iPhone before buying</a>
+
+## Python
+
+* <a href="python/Reload an already-imported module.md">Reload an already-imported module</a>
