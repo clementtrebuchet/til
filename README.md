@@ -12,6 +12,7 @@ Idea blatantly stolen from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [Devops](#devops)
 - [iOS](#ios)
+- [Linux](#linux)
 - [Python](#python)
 
 ---
@@ -23,6 +24,10 @@ Idea blatantly stolen from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## iOS
 
 * <a href="ios/Check the activation lock status of a used iPhone before buying.md">Check the activation lock status of a used iPhone before buying</a>
+
+## Linux
+
+* <a href="linux/Permissions have to be 600 on ssh_authorized_keys.md">Permissions have to be 600 on ~/.ssh/authorized_keys</a>
 
 ## Python
 
