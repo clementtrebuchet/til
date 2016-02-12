@@ -26,4 +26,4 @@ minor = m.group('minor')
 
 I can still use the numeric indices (as in the first example), so this doesn't break old code -- it's just a nice extra.
 
-
+([source](http://www.regular-expressions.info/named.html))
