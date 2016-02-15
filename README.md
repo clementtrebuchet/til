@@ -39,4 +39,5 @@ Idea blatantly stolen from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Python
 
 * <a href="python/Reload an already-imported module.md">Reload an already-imported module</a>
+* <a href="python/Subclass instances of namedtuple with _new_.md">Subclass instances of namedtuple with __new__</a>
 * <a href="python/Use named capturing groups in regexes.md">Use named capturing groups in regexes</a>
