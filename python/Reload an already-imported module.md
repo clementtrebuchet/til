@@ -1,4 +1,4 @@
-# Reload an already-loaded module
+# Reload an already-imported module
 
 You can reload a module that you've already imported with the `reload` function.  This has moved around a few times in the various versions of Python:
 
