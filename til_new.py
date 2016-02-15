@@ -84,7 +84,7 @@ def rebuild_index():
 if __name__ == '__main__':
     import sys
     if '--reindex' not in sys.argv:
-        new_til(os.environ['KMVAR_tmpTilCategory'],
+        new_til(os.environ['KMVAR_tmpTILCategory'],
                 os.environ['KMVAR_tmpTILTitle'],
                 os.environ['KMVAR_tmpTILBody'])
     rebuild_index()
