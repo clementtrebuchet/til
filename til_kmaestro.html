@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Create a TIL</title>
+
+	<style>
+    html {
+    	font-family: HelveticaNeue, Verdana, sans-serif;
+    	font-size: 16px;
+    }
+    #topic_select {
+      font-size: 36px;
+    }
+    input, textarea {
+      font-size: 14px;
+    }
+    body {
+    	margin: 1rem;
+    }
+    .label {
+      text-align: right;
+      font-weight: bold;
+    }
+    table {
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 10px;
+    }
+    table tr {
+      margin-top: 5em;
+    }
+    article {
+      font-size: 1.1em;
+    }
+    button {
+      color: black;
+      float: right;
+      font-size: 16px;
+      padding: 5px;
+      width: 75px;
+      margin-right: 10px;
+    }
+  </style>
+
+  <script>
+    var toggleFreeFormCategory = function() {
+      // Get the value of the currently selected element
+      var slt = document.getElementById('topic_select');
+      var value = slt.options[slt.selectedIndex].value;
+
+      // If we've selected the "other" category, show the freeform
+      // category field
+      var freeForm = document.getElementById('tmpTILCategoryAlt');
+      if (value == "_other") {
+        freeForm.style.display = "inline";
+      } else {
+        freeForm.style.display = "none";
+      }
+    }
+  </script>
+
+</head>
+
+<body data-kmwindow="700,360">
+
+  <h3>Create a new TIL:</h3>
+
+  <form>
+    <table>
+      <tr>
+        <td class="label">TIL:</td>
+        <td><input name="tmpTILTitle" class="input" type="text" id="til_title" size="62" autofocus/></td>
+      </tr>
+      <tr>
+        <td class="label">Body:</td>
+        <td><textarea name="tmpTILBody" class="input" type="text" id="til_description" cols="60" rows="10"/></textarea></td>
+      </tr>
+      <tr style="height: 32px;">
+        <td class="label">Category:</td>
+        <td id="select">
+          <span style="line-height: 24px;">
+            <select name="tmpTILCategory" id="topic_select" onchange="toggleFreeFormCategory()">
+              <script>
+                var topics = eval(window.KeyboardMaestro.GetVariable('tmpTILTopics'));
+                document.write(topics);
+                for (var i = 0; i < topics.length; i++) {
+                  document.write('<option value="' + topics[i] + '">' + topics[i] + '</option>');
+                }
+              </script>
+              <option value="_other">other</option>
+            </select>
+          </span>
+          <input name="tmpTILCategoryAlt" style="display: none;" class="input" type="text" id="tmpTILCategoryAlt" size="15"/>
+        </td>
+        <td></td>
+      </tr>
+    </table>
+    <div style="text-align: right; margin-right: 0.6em;">
+      <button type="submit" href="#" name="OK" onclick="window.KeyboardMaestro.Submit('OK')">OK</button>
+      <button type="button" name="Cancel" onclick="window.KeyboardMaestro.Cancel('Cancel')">Cancel</button>
+    </div>
+  </form>
+
+</body>
+
+</html>
