@@ -41,5 +41,6 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 ## Python
 
 * <a href="python/Reload an already-imported module.md">Reload an already-imported module</a>
-* <a href="python/Subclass instances of namedtuple with _new_.md">Subclass instances of namedtuple with __new__</a>
+* <a href="python/Subclass instances of namedtuple with _new_.md">Subclass instances of namedtuple with \__new__</a>
 * <a href="python/Use named capturing groups in regexes.md">Use named capturing groups in regexes</a>
+* <a href="python/Use the _x_ mode to create a file_ but only if it doesn_t exist already.md">Use the `x` mode to create a file, but only if it doesn’t exist already</a>
