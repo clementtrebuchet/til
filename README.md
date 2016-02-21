@@ -38,6 +38,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 
 * <a href="linux/Permissions have to be 600 on ssh_authorized_keys.md">Permissions have to be 600 on ~/.ssh/authorized_keys</a>
 * <a href="linux/Use job control to run multiple jobs at once in bash.md">Use job control to run multiple jobs at once in bash</a>
+* <a href="linux/Use the _declare_ keyword for a semblance of type system in bash.md">Use the `declare` keyword for a semblance of type system in bash</a>
 * <a href="linux/Use the _select_ keyword to create a menu in bash.md">Use the `select` keyword to create a menu in bash</a>
 
 ## Python
