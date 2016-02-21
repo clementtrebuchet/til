@@ -18,6 +18,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 - [iOS](#ios)
 - [Keyboard Maestro](#kmaestro)
 - [Linux](#linux)
+- [OS X](#os-x)
 - [Python](#python)
 
 ---
@@ -40,6 +41,10 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 * <a href="linux/Use job control to run multiple jobs at once in bash.md">Use job control to run multiple jobs at once in bash</a>
 * <a href="linux/Use the _declare_ keyword for a semblance of type system in bash.md">Use the `declare` keyword for a semblance of type system in bash</a>
 * <a href="linux/Use the _select_ keyword to create a menu in bash.md">Use the `select` keyword to create a menu in bash</a>
+
+## OS X
+
+* <a href="os-x/Press X to swap main_presenter screens in Keynote.md">Press X to swap main/presenter screens in Keynote</a>
 
 ## Python
 

@@ -19,6 +19,8 @@ def unescape(topic):
         return 'iOS'
     elif topic == 'kmaestro':
         return 'Keyboard Maestro'
+    elif topic == 'os-x':
+        return 'OS X'
     else:
         return topic[0].upper() + topic[1:]
 
