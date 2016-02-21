@@ -37,6 +37,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 ## Linux
 
 * <a href="linux/Permissions have to be 600 on ssh_authorized_keys.md">Permissions have to be 600 on ~/.ssh/authorized_keys</a>
+* <a href="linux/Use job control to run multiple jobs at once in bash.md">Use job control to run multiple jobs at once in bash</a>
 
 ## Python
 
