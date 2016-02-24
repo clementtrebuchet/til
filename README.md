@@ -17,6 +17,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 - [Devops](#devops)
 - [iOS](#ios)
 - [Keyboard Maestro](#kmaestro)
+- [LaTeX](#latex)
 - [Linux](#linux)
 - [OS X](#os-x)
 - [Python](#python)
@@ -34,6 +35,10 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 ## Keyboard Maestro
 
 * <a href="kmaestro/Rename actions in Keyboard Maestro.md">Rename actions in Keyboard Maestro</a>
+
+## LaTeX
+
+* <a href="latex/Use marginnote and mdframed to create alongside your text.md">Use marginnote and mdframed to create call-outs alongside your text</a>
 
 ## Linux
 

@@ -8,6 +8,14 @@ import os
 import re
 
 
+TOPIC_TITLES = {
+    'ios': 'IOS',
+    'kmaestro': 'Keyboard Maestro',
+    'latex': 'LaTeX',
+    'os-x': 'OS X',
+}
+
+
 def escape(xs):
     """Removes all non-ASCII printable chars from a string"""
     return re.sub(r'[^ ^a-zA-Z]+', '_', xs)
@@ -15,14 +23,7 @@ def escape(xs):
 
 def unescape(topic):
     """Converts a topic dirname back into a human-readable string."""
-    if topic == 'ios':
-        return 'iOS'
-    elif topic == 'kmaestro':
-        return 'Keyboard Maestro'
-    elif topic == 'os-x':
-        return 'OS X'
-    else:
-        return topic[0].upper() + topic[1:]
+    return TOPIC_TITLES.get(topic, topic[0].upper() + topic[1:])
 
 
 def new_til(category, title, body):
