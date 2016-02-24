@@ -38,6 +38,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 ## Linux
 
 * <a href="linux/Get a list of current filesystem mounts.md">Get a list of current filesystem mounts</a>
+* <a href="linux/How to create a symlink without ln _ and generally get by with missing libraries.md">How to create a symlink without ln – and generally get by with missing libraries</a>
 * <a href="linux/Permissions have to be 600 on ssh_authorized_keys.md">Permissions have to be 600 on ~/.ssh/authorized_keys</a>
 * <a href="linux/Use job control to run multiple jobs at once in bash.md">Use job control to run multiple jobs at once in bash</a>
 * <a href="linux/Use the _declare_ keyword for a semblance of type system in bash.md">Use the `declare` keyword for a semblance of type system in bash</a>
