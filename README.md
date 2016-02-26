@@ -22,6 +22,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 - [Linux](#linux)
 - [OS X](#os-x)
 - [Python](#python)
+- [Tumblr](#tumblr)
 
 ---
 
@@ -65,3 +66,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 * <a href="python/Subclass instances of namedtuple with _new_.md">Subclass instances of namedtuple with \__new__</a>
 * <a href="python/Use named capturing groups in regexes.md">Use named capturing groups in regexes</a>
 * <a href="python/Use the _x_ mode to create a file_ but only if it doesn_t exist already.md">Use the `x` mode to create a file, but only if it doesn’t exist already</a>
+
+## Tumblr
+
+* <a href="tumblr/How to look up posts from a particular day.md">How to look up posts from a particular day</a>
