@@ -15,7 +15,8 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 ## Categories
 
 - [Devops](#devops)
-- [iOS](#ios)
+- [IOS](#ios)
+- [JavaScript](#javascript)
 - [Keyboard Maestro](#kmaestro)
 - [LaTeX](#latex)
 - [Linux](#linux)
@@ -28,9 +29,13 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 
 * <a href="devops/Disable time sync between a VirtualBox host and its guest.md">Disable time sync between a VirtualBox host and its guest</a>
 
-## iOS
+## IOS
 
 * <a href="ios/Check the activation lock status of a used iPhone before buying.md">Check the activation lock status of a used iPhone before buying</a>
+
+## JavaScript
+
+* <a href="javascript/What_s the difference between _ and _.md">What’s the difference between == and ===?</a>
 
 ## Keyboard Maestro
 
@@ -38,7 +43,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 
 ## LaTeX
 
-* <a href="latex/Use marginnote and mdframed to create alongside your text.md">Use marginnote and mdframed to create call-outs alongside your text</a>
+* <a href="latex/Use marginnote and mdframed to create call-outs alongside your text.md">Use marginnote and mdframed to create call-outs alongside your text</a>
 
 ## Linux
 

@@ -13,6 +13,7 @@ TOPIC_TITLES = {
     'kmaestro': 'Keyboard Maestro',
     'latex': 'LaTeX',
     'os-x': 'OS X',
+    'javascript': 'JavaScript',
 }
 
 
