@@ -58,6 +58,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 ## OS X
 
 * <a href="os-x/Press X to swap main_presenter screens in Keynote.md">Press X to swap main/presenter screens in Keynote</a>
+* <a href="os-x/Use _O to quickly access areas in OmniFocus.md">Use ⌘+O to quickly access areas in OmniFocus</a>
 
 ## Python
 
