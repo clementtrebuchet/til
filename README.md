@@ -64,6 +64,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 ## Python
 
 * <a href="python/How to remove duplicate dicts from a list.md">How to remove duplicate dicts from a list</a>
+* <a href="python/Python will use a cached _pyc file even if the _py file is missing.md">Python will use a cached *.pyc file even if the *.py file is missing</a>
 * <a href="python/Reload an already-imported module.md">Reload an already-imported module</a>
 * <a href="python/Subclass instances of namedtuple with _new_.md">Subclass instances of namedtuple with \__new__</a>
 * <a href="python/Use named capturing groups in regexes.md">Use named capturing groups in regexes</a>
