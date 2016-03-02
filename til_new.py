@@ -9,7 +9,7 @@ import re
 
 
 TOPIC_TITLES = {
-    'ios': 'IOS',
+    'ios': 'iOS',
     'kmaestro': 'Keyboard Maestro',
     'latex': 'LaTeX',
     'os-x': 'OS X',

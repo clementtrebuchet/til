@@ -15,7 +15,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 ## Categories
 
 - [Devops](#devops)
-- [IOS](#ios)
+- [iOS](#ios)
 - [JavaScript](#javascript)
 - [Keyboard Maestro](#kmaestro)
 - [LaTeX](#latex)
@@ -30,7 +30,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 
 * <a href="devops/Disable time sync between a VirtualBox host and its guest.md">Disable time sync between a VirtualBox host and its guest</a>
 
-## IOS
+## iOS
 
 * <a href="ios/Check the activation lock status of a used iPhone before buying.md">Check the activation lock status of a used iPhone before buying</a>
 
