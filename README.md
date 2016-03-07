@@ -67,6 +67,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 * <a href="python/Python will use a cached _pyc file even if the _py file is missing.md">Python will use a cached *.pyc file even if the *.py file is missing</a>
 * <a href="python/Reload an already-imported module.md">Reload an already-imported module</a>
 * <a href="python/Subclass instances of namedtuple with _new_.md">Subclass instances of namedtuple with \__new__</a>
+* <a href="python/Use _itertools_groupby_ to check if all the elements of an iterable are the same.md">Use `itertools.groupby` to check if all the elements of an iterable are the same</a>
 * <a href="python/Use named capturing groups in regexes.md">Use named capturing groups in regexes</a>
 * <a href="python/Use the _x_ mode to create a file_ but only if it doesn_t exist already.md">Use the `x` mode to create a file, but only if it doesn’t exist already</a>
 
