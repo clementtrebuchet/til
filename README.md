@@ -36,6 +36,7 @@ I have a [Keyboard Maestro macro](kmaestro.md) to help me write the entries.
 
 ## JavaScript
 
+* <a href="javascript/Use _console_table_ in the web inspector for easy display of tabular information.md">Use `console.table()` in the web inspector for easy display of tabular information</a>
 * <a href="javascript/What_s the difference between _ and _.md">What’s the difference between == and ===?</a>
 
 ## Keyboard Maestro
